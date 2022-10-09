@@ -8,6 +8,20 @@ body {
   justify-content: center;
 }
 
+.created {
+  font-size: 10px;
+  font-family: "Red Hat Display";
+}
+
+.nijat{
+  color: #9747ff;
+  transition: all .2s ease-in-out;
+}
+
+.nijat:hover{
+  color: #e6e6e6;
+}
+
 footer {
   bottom: 0px;
   color: #9747ff;
@@ -34,10 +48,7 @@ h1 {
   font-size: 25px;
 }
 
-.created {
-  font-size: 10px;
-  font-family: "Red Hat Display";
-}
+
 
 .content {
   margin-top: 50px;
