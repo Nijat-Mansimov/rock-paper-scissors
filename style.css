@@ -140,6 +140,7 @@ i:hover {
     position: absolute;
     left: 50%;
     top: 50%;
+    transform:translate(-50%,-50%)
 }
 
 button{
@@ -162,12 +163,4 @@ button{
 button:hover{
     width: 105px;
     height: 35px;
-}
-
-@media screen and (max-width: 650px) {
-    .success_container{
-        position: absolute;
-        left: 30%;
-        top: 30%;
-    }
 }
